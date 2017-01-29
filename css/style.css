@@ -1,0 +1,15 @@
+/*Primera seccion*/
+ 
+#principal{
+	background-image: url(../img/helicopter.jpg);
+	min-height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+header a{
+	color: #6f6d6d !important;
+}
+header ul li a{
+	color: #6f6d6d;
+}
